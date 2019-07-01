@@ -1,4 +1,4 @@
-#crollDistance.js
+#ScrollDistance.js
 
 ## Build Setup
 
